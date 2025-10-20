@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/MUH0351/Projects/end-to-end-ml-project-wine-quality/mlruns/0/11b4576e3f3b4632b14acbc00fcd89db/artifacts
+end_time: 1760982436571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11b4576e3f3b4632b14acbc00fcd89db
+run_name: awesome-mouse-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760982429209
+status: 3
+tags: []
+user_id: MUH0351

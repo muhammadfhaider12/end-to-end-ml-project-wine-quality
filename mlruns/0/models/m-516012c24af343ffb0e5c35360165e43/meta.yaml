@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/MUH0351/Projects/end-to-end-ml-project-wine-quality/mlruns/0/models/m-516012c24af343ffb0e5c35360165e43/artifacts
+creation_timestamp: 1760982429321
+experiment_id: '0'
+last_updated_timestamp: 1760982436558
+model_id: m-516012c24af343ffb0e5c35360165e43
+model_type: null
+name: model
+source_run_id: 11b4576e3f3b4632b14acbc00fcd89db
+status: 2
+status_message: null

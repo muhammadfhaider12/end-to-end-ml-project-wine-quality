@@ -87,13 +87,12 @@ class ConfigurationManager:
 
         model_evaluation_config = ModelEvaluationConfig(
             root_dir = config.root_dir,
-            train_data_path = config.train_data_path,
             test_data_path = config.test_data_path,
             model_path = config.model_path,
             all_params = params,
-            metric_file_path = config.metric_file_path,
-            target_colum = schema.name,
-            mlflow_uri = ""
+            metric_file_name= config.metric_file_name,
+            target_column = schema.name,
+            mlflow_uri = "https://dagshub.com/muhammadfhaider12/end-to-end-ml-project-wine-quality.mlflow"
         )
 
         return model_evaluation_config
